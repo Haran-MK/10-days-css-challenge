@@ -1,6 +1,6 @@
 # 🎨 10 Days CSS Challenge
 
-This repository contains my solutions for the Spotknack 10 Days CSS Challenge.
+This repository contains my solutions for the  10 Days CSS Challenge.
 
 ## 🌐 Live Website
 https://haran-mk.github.io/10-days-css-challenge/
