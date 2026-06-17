@@ -9,7 +9,7 @@ https://haran-mk.github.io/10-days-css-challenge/
 
 - [x] Day 1 – CSS Basics
 - [x] Day 2 – The Box Model
-- [ ] Day 3 – Flexbox Fun
+- [x] Day 3 – Flexbox Fun
 - [ ] Day 4 – Grid Layout
 - [ ] Day 5 – Hover & Transition Effects
 - [ ] Day 6 – Positioning
