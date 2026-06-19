@@ -12,7 +12,11 @@ https://haran-mk.github.io/10-days-css-challenge/
 - [x] Day 3 – Flexbox Fun
 - [x] Day 4 – Grid Layout
 - [x] Day 5 – Hover & Transition Effects
+<<<<<<< HEAD
 - [ ] Day 6 – Positioning
+=======
+- [x] Day 6 – Positioning
+>>>>>>> 163a845 (Completed Day 6 - Hero Section)
 - [ ] Day 7 – Pseudo-classes & Pseudo-elements
 - [ ] Day 8 – Responsive Design
 - [ ] Day 9 – Animations
