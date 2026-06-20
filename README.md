@@ -11,9 +11,15 @@ https://haran-mk.github.io/10-days-css-challenge/
 - [x] Day 2 – The Box Model
 - [x] Day 3 – Flexbox Fun
 - [x] Day 4 – Grid Layout
+<<<<<<< HEAD
 - [x] Day 5 – Hover & Transition Effect
 - [x] Day 6 – Positioning
 - [ ] Day 7 – Pseudo-classes & Pseudo-elements
+=======
+- [x] Day 5 – Hover & Transition Effects
+- [x] Day 6 – Positioning
+- [x] Day 7 – Pseudo-classes & Pseudo-elements
+>>>>>>> 5ec87e7 (Completed Day 7 - Pseudo Classes and Elements)
 - [ ] Day 8 – Responsive Design
 - [ ] Day 9 – Animations
 - [ ] Day 10 – Portfolio Section
