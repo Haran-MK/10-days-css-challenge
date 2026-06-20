@@ -14,7 +14,7 @@ https://haran-mk.github.io/10-days-css-challenge/
 - [x] Day 5 – Hover & Transition Effect
 - [x] Day 6 – Positioning
 - [x] Day 7 – Pseudo-classes & Pseudo-element
-- [ ] Day 8 – Responsive Design
+- [x] Day 8 – Responsive Design
 - [ ] Day 9 – Animations
 - [ ] Day 10 – Portfolio Section
 
