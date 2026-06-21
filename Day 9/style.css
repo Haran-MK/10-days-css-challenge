@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#f4f4f4;
+    font-family:Arial, sans-serif;
+}
+.container{
+    text-align:center;
+}
+h1{
+    margin-bottom:40px;
+    font-family:'Times New Roman', Times, serif, sans-serif;
+
+}
+.ball{
+    width:100px;
+    height:100px;
+    background:orange;
+    border-radius:50%;
+    margin:0 auto 30px;
+    animation:bounce 1s infinite ease-in-out;
+}
+@keyframes bounce{
+    0%{
+        transform:translateY(0);
+    }
+    50%{
+        transform:translateY(-150px);
+    }
+    100%{
+       transform:translateY(0);
+    }
+}
+p{
+    font-size:18px;
+     font-family:'Times New Roman', Times, serif, sans-serif;
+}
